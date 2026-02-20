@@ -48,7 +48,7 @@ binance-futures-cli-bot/
 5.  INSTALLATION STEPS
 
 Step 1: Clone Repository git clone
-https://github.com/your-username/binance-futures-cli-bot.git 
+https://github.com/ruchikasonkusare/Binance-Futures-CLI-Trading-Bot-.git   
 cd binance-futures-cli-bot
 
 Step 2: Create Virtual Environment 
